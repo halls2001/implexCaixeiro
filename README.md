@@ -1,7 +1,5 @@
-# implexCaixeiro
-
-Instruções de Compilação e Execução
-Este documento fornece instruções para compilar e executar o código fornecido para resolver o Problema do Caixeiro Viajante (TSP).
+# Instruções de Compilação e Execução
+# Este documento fornece instruções para compilar e executar o código fornecido para resolver o Problema do Caixeiro Viajante (TSP).
 
 </p>1.	Requisitos:</p>
 •	Python 3.x instalado no sistema.
