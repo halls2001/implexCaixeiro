@@ -142,7 +142,19 @@ if __name__ == '__main__':
 
         print("Melhor percurso (Hill Climbing Iterativo):", melhor_percurso_hc)
         print("Melhor percurso (Simulated Annealing):", melhor_percurso_sa)
+
+        solucao = melhor_percurso_hc
+        comprimento_rota = calcular_custo(solucao, grafo)
+        comprimento_rota_arredondado = round(comprimento_rota, 2)
+        print("Comprimento da rota Hill Climbing:", comprimento_rota_arredondado)
         print()
+
+        solucao = melhor_percurso_sa
+        comprimento_rota = calcular_custo(solucao, grafo)
+        comprimento_rota_arredondado = round(comprimento_rota, 2)
+        print("Comprimento da rota Simulated Annealing:", comprimento_rota_arredondado)
+        print()
+
 
 
 
