@@ -14,7 +14,7 @@ Este documento fornece instruções para compilar e executar o código fornecido
 python main.py 
 </p>4.	Configuração dos Parâmetros:</p>
 </p>•	No arquivo "main.py", você pode ajustar os seguintes parâmetros de acordo com sua preferência:</p>
-</p>•	Leitura das entradas: O código foi implementado para analisar todos os itens que possuem a extensão “.txt” ou seja não é necessário informar quais serão os arquivos de contendo os dados das cidades. Basta colocar os arquivos “.txt” na mesma pasta que o arquivo “main.py”</p>
+</p>•	Leitura das entradas: O código foi implementado para analisar todos os itens que possuem a extensão “.txt” ou seja não é necessário informar quais serão os arquivos que estão contendo os dados das cidades. Basta colocar os arquivos “.txt” na mesma pasta que o arquivo “main.py”</p>
 </p>•	temperatura_inicial: Temperatura inicial para o algoritmo Simulated Annealing. Defina o valor desejado.</p>
 </p>•	taxa_resfriamento: Taxa de resfriamento para o algoritmo Simulated Annealing. Defina o valor desejado.</p>
 </p>5.	Saída:</p>
